@@ -11,3 +11,7 @@
 ## 3. Consumo de API con interfaz y autenticación (Nivel Intermedio/Avanzado)
 
 [Scrip-3](https://github.com/sandrestrepo28/networkmarket/tree/main/3-API)
+
+## 4. Extracción de datos de cuentas de Instagram
+
+[Scrip-4](https://github.com/sandrestrepo28/networkmarket/tree/main/4-ScripIG)
